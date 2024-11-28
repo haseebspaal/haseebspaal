@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Haseeb Spaal and I'm a Full Stack Web Developer ( Frontend Specialist ) from Pakistan.</h2>
+<h2 align="left">Hi 👋! My name is Haseeb Spaal and I'm a Full Stack Web Developer ( Frontend Specialist )</h2>
 
 ###
 
